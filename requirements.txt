@@ -1,0 +1,6 @@
+praw
+requests
+imgurpython
+tqdm
+coloredlogs
+python-dotenv
