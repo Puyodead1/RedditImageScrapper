@@ -2,6 +2,8 @@
 Scrape images from reddit using Python
 
 ![GitHub](https://img.shields.io/github/license/Puyodead1/RedditImageScrapper?style=plastic)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/Puyodead1/RedditImageScrapper?style=plastic)
+
 
 Python Version 3+ (Developed with 3.8)
 
